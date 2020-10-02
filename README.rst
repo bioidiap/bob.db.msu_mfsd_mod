@@ -3,10 +3,10 @@
 
 .. image:: https://img.shields.io/badge/docs-available-orange.svg
    :target: https://www.idiap.ch/software/bob/docs/bob/bob.db.msu_mfsd_mod/master/index.html
-.. image:: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/badges/v2.2.9/pipeline.svg
-   :target: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/commits/v2.2.9
-.. image:: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/badges/v2.2.9/coverage.svg
-   :target: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/commits/v2.2.9
+.. image:: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/badges/master/pipeline.svg
+   :target: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/commits/master
+.. image:: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/badges/master/coverage.svg
+   :target: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod/commits/master
 .. image:: https://img.shields.io/badge/gitlab-project-0000c0.svg
    :target: https://gitlab.idiap.ch/bob/bob.db.msu_mfsd_mod
 
